@@ -5,9 +5,9 @@
 
 ---
 
-### [> 前往项目甘特图 <](https://github.com/orgs/DeusVireon/projects/views/3)  
-### [> 前往项目计划板 <](https://github.com/orgs/DeusVireon/projects/views/2)
-### [> 前往项目任务表 <](https://github.com/orgs/DeusVireon/projects/views/1)
+### [> 前往项目甘特图 <](https://github.com/orgs/DeusVireon/projects/1/views/3)  
+### [> 前往项目计划板 <](https://github.com/orgs/DeusVireon/projects/1/views/2)
+### [> 前往项目任务表 <](https://github.com/orgs/DeusVireon/projects/1/views/1)
 
 <!--
 
